@@ -10,9 +10,12 @@ audience.
 
 The original Wiki consists of separate Markdown-formatted text files
 which are versioned under Git. For and introduction to Markdown, see
-[Daring Fireball's Markdown Tutorial](https://daringfireball.net/projects/markdown/). For convenience, we have included only the compiled pdf generated with
-[pandoc](http://pandoc.org/) by running *getbook.sh* at the Git
-document root. The compilation script is included as an example.
+[Daring Firebafor a printable copy.ll's Markdown
+Tutorial](https://daringfireball.net/projects/markdown/). For
+convenience, we have included only the [compiled
+pdf](https://github.com/Sitra-Isaacus/VSSHP-tietoallas-dap/raw/master/book/cci_book.pdf)
+generated with [pandoc](http://pandoc.org/) by running *getbook.sh* at
+the Git document root. The compilation script is included as an example.
 
 
 
