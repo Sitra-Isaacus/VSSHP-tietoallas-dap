@@ -1,0 +1,50 @@
+% Base LaTeX
+\usepackage{graphicx}
+\usepackage{xcolor}
+
+% Language dependent encodings
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{palatino}
+\usepackage[finnish,english]{babel}
+
+%\usepackage{fontspec}
+%\setmainfont{Carlito}
+%\setromanfont{Carlito}
+%\setsansfont{Arial}
+%\setmonofont{Courier} 
+
+% Layout 
+\usepackage{mathrsfs,amsfonts,amsmath,amssymb}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.4pt}
+\usepackage{lastpage}
+\newcommand{\isodate}{\number\year -%
+  \ifnum \number\month<10 0\number\month \else \number\month \fi -%
+  \ifnum \number\day<10 0\number\day \else \number\day \fi}
+\lhead{The Clinical Data Refinery}
+\rhead{}
+\lfoot{\isodate}
+\rfoot{Subtopic Page \thepage /\pageref{LastPage}}
+\cfoot{}
+\linespread{1.0}
+
+% Listings setup
+\lstset{
+    basicstyle=\scriptsize\ttfamily,
+    %numbers=left,
+    numberstyle=\normalsize,
+    stepnumber=2,
+    numbersep=3pt,
+    backgroundcolor=\color{black!10},
+    showspaces=false,
+    showstringspaces=false,
+    showtabs=false,
+    tabsize=2,
+    captionpos=b,
+    breaklines=true,
+    breakatwhitespace=true,
+    breakautoindent=true,
+    linewidth=\textwidth
+}

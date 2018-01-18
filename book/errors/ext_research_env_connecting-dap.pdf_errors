@@ -1,0 +1,811 @@
+[makePDF] temp dir:
+/tmp/tex2pdf.2213
+[makePDF] Command line:
+xelatex "-halt-on-error" "-interaction" "nonstopmode" "-output-directory" "/tmp/tex2pdf.2213" "/tmp/tex2pdf.2213/input.tex"
+
+[makePDF] Environment:
+("TEXINPUTS","/tmp/tex2pdf.2213:")
+("LC_PAPER","fi_FI.UTF-8")
+("XDG_SESSION_ID","48")
+("SSH_AGENT_PID","31196")
+("LC_ADDRESS","fi_FI.UTF-8")
+("LC_MONETARY","fi_FI.UTF-8")
+("SHELL","/bin/bash")
+("TERM","xterm")
+("SSH_CLIENT","193.143.206.126 53974 22")
+("QT_LINUX_ACCESSIBILITY_ALWAYS_ON","1")
+("X2GO_SESSION","ktp-50-1505327362_stDXFCE_dp24")
+("LC_NUMERIC","fi_FI.UTF-8")
+("WINDOWID","56623107")
+("NX_XINERAMA_CONF","/home/ktp/.x2go/C-ktp-50-1505327362_stDXFCE_dp24/xinerama.conf")
+("X2GO_AGENT_PID","30828")
+("USER","ktp")
+("LC_TELEPHONE","fi_FI.UTF-8")
+("LD_LIBRARY_PATH","/usr/lib/nx/X11/Xinerama:/usr/lib/nx/X11")
+("QT_ACCESSIBILITY","1")
+("LS_COLORS","rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:")
+("SSH_AUTH_SOCK","/tmp/ssh-IR03Az7c3tll/agent.31195")
+("SESSION_MANAGER","local/ktpdoc:@/tmp/.ICE-unix/30988,unix/ktpdoc:/tmp/.ICE-unix/30988")
+("PULSE_CLIENTCONFIG","/home/ktp/.x2go/C-ktp-50-1505327362_stDXFCE_dp24/.pulse-client.conf")
+("MAIL","/var/mail/ktp")
+("PATH","/usr/local/bin:/usr/bin:/bin:/snap/bin")
+("GSETTINGS_SCHEMA_DIR","/usr/share/xfce4:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop")
+("LC_IDENTIFICATION","fi_FI.UTF-8")
+("PWD","/home/ktp/KTPWiki")
+("LANG","en_US.UTF-8")
+("QT_GRAPHICSSYSTEM","native")
+("LC_MEASUREMENT","fi_FI.UTF-8")
+("XSESSION_EXEC","xfce4-session")
+("SHLVL","5")
+("HOME","/home/ktp")
+("LOGNAME","ktp")
+("SSH_CONNECTION","193.143.206.126 53974 10.150.18.24 22")
+("DBUS_SESSION_BUS_ADDRESS","unix:abstract=/tmp/dbus-UCR5YpyuVF,guid=fc89868c1baa3c3d27bd710259b97908")
+("XDG_DATA_DIRS","/usr/share/xfce4:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop:/var/lib/snapd/desktop")
+("LESSOPEN","| /usr/bin/lesspipe %s")
+("DISPLAY",":50.0")
+("XDG_RUNTIME_DIR","/run/user/1000")
+("STARTUP","/usr/bin/dbus-launch --exit-with-session /usr/bin/im-launch /usr/bin/env LD_LIBRARY_PATH=/usr/lib/nx/X11/Xinerama:/usr/lib/nx/X11 xfce4-session")
+("LC_TIME","fi_FI.UTF-8")
+("LESSCLOSE","/usr/bin/lesspipe %s %s")
+("LC_NAME","fi_FI.UTF-8")
+("XAUTHORITY","/home/ktp/.Xauthority")
+("COLORTERM","xfce4-terminal")
+("_","/usr/bin/pandoc")
+
+[makePDF] Contents of /tmp/tex2pdf.2213/input.tex:
+\documentclass[11pt,a4paper,]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=2cm]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{listings}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+% Base LaTeX
+\usepackage{graphicx}
+\usepackage{xcolor}
+
+% Language dependent encodings
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{palatino}
+\usepackage[finnish,english]{babel}
+
+%\usepackage{fontspec}
+%\setmainfont{Carlito}
+%\setromanfont{Carlito}
+%\setsansfont{Arial}
+%\setmonofont{Courier} 
+
+% Layout 
+\usepackage{mathrsfs,amsfonts,amsmath,amssymb}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.4pt}
+\usepackage{lastpage}
+\newcommand{\isodate}{\number\year -%
+  \ifnum \number\month<10 0\number\month \else \number\month \fi -%
+  \ifnum \number\day<10 0\number\day \else \number\day \fi}
+\lhead{The Clinical Data Refinery}
+\rhead{}
+\lfoot{\isodate}
+\rfoot{Subtopic Page \thepage /\pageref{LastPage}}
+\cfoot{}
+\linespread{1.0}
+
+% Listings setup
+\lstset{
+    basicstyle=\scriptsize\ttfamily,
+    %numbers=left,
+    numberstyle=\normalsize,
+    stepnumber=2,
+    numbersep=3pt,
+    backgroundcolor=\color{black!10},
+    showspaces=false,
+    showstringspaces=false,
+    showtabs=false,
+    tabsize=2,
+    captionpos=b,
+    breaklines=true,
+    breakatwhitespace=true,
+    breakautoindent=true,
+    linewidth=\textwidth
+}
+
+\date{}
+
+\begin{document}
+
+\subsection{Connecting Data Analysis Platform
+(DAP)}\label{connecting-data-analysis-platform-dap}
+
+Document Author:
+\href{mailto:arho.virkki@tyks.fi}{\nolinkurl{arho.virkki@tyks.fi}}
+
+\subsubsection{Obtaining Access to DAP}\label{obtaining-access-to-dap}
+
+Turku Centre for Clinical Informatics at the Hospital District of
+Southwest Finland offers Data Analytics Platform (DAP) for data-driven
+research projects.
+
+To use the service, you need to
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Have a valid research permission (T-number)
+\item
+  Have agreed DAP terms and conditions
+\item
+  Have obtained credentials for the service
+\end{enumerate}
+
+This guide explains how to get credentials to DAP, and the optional step
+of installing an open-sourced X2Go software package for Linux, Apple or
+Windows for native remote desktop access.
+
+ Architecture. A Schematic illustarion of the Data Analytics Platform
+(DAP). API end points and web services like ``R Studio Server'' can be
+tunneled to researcher's computer through the Secure Shell (SSH)
+connection, which is a sptandard Internet protocol for encrypted
+communication.
+
+\subsubsection{1. Obtain Key Pair for Asymmetric
+Cryptography}\label{obtain-key-pair-for-asymmetric-cryptography}
+
+\emph{Visit the CCI office, or generate the files yourself with the
+instructions below.}
+
+On Linux and Apple, the needed tools come bundled. On Windows 10, you
+need either to enable the Windows Sybsystem for Linux {[}1{]}, or get a
+separate tool that installs OpenSSH. The easiest way for Windows users
+is to install Git {[}2{]}, which comes with a bundled bash shell and
+ssh.
+
+When ready, open Terminal.app, Gnome Terminal or Bash Launcher, and
+generate a key pair with the command
+
+\begin{lstlisting}
+ssh-keygen -C "Your Name" -f Your_Name
+\end{lstlisting}
+
+The command generates two files, for example
+
+\begin{lstlisting}
+John_Doe
+John_Doe.pub
+\end{lstlisting}
+
+Email the public key (with the .pub extension) to
+\href{mailto:ktp@tyks.fi}{\nolinkurl{ktp@tyks.fi}} (cc:
+\href{mailto:arho.virkki@tyks.fi}{\nolinkurl{arho.virkki@tyks.fi}}).
+Keep the private key (with no extension) in a safe place. \textbf{Do not
+email the private key to anyone!}
+
+ Example. Generating keys public and private keys.
+
+{[}1{]}
+\url{http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/}
+{[}2{]} \url{https://git-scm.com/}
+
+\subsubsection{2. Connect DAP via Command
+Line}\label{connect-dap-via-command-line}
+
+\emph{Connection works only after CCI has obtained your public key and
+added it to the system.}
+
+Again, open Terminal.app, Gnome Terminal or Bash Launcher, and issue the
+command
+
+\begin{lstlisting}
+ssh <user>@192.168.122.<your machine> -o \
+ProxyCommand="ssh bastion@analytics.tyks.fi -W %h:%p -i <private_key>"
+\end{lstlisting}
+
+where ``" denotes the continuation of line. For example,
+
+\begin{lstlisting}
+ssh <your user>@192.168.122.<machine_num> -o ProxyCommand="ssh bastion@analytics.tyks.fi -W %h:%p -i ~/c/files/KTP_Key"
+\end{lstlisting}
+
+You should be able to log in with the correct password.
+
+Using services on the DAP is now easy. For example, you can tunnel R
+Studio Server through the connection by adding its port as an option in
+the above command,
+
+\begin{lstlisting}
+-L 8787:localhost:8787
+\end{lstlisting}
+
+Now, R Studio Server can be reached by pointing a browser to address
+\url{http://localhost:8787}, as shown in the image below.
+
+ Example. Using R Studio Server on DAP.
+
+\subsubsection{3. Connect DAP Using X2Go Remote
+Desktop}\label{connect-dap-using-x2go-remote-desktop}
+
+Download and install a copy of X2Go from \url{http://wiki.x2go.org}.
+This will provide you a full-blown graphical desktop to the remote
+server.
+
+The settings must be chosen exactly as in the image below.
+
+\begin{itemize}
+\tightlist
+\item
+  Host: the IP of your machine, e.g.~192.168.122.100
+\item
+  Login: You account name, e.g.~johndoe
+\item
+  {[}x{]} Use Proxy server for SSH connection
+\item
+  Type: SSH
+\item
+  Login: bastion
+\item
+  Host: analytics.tyks.fi
+\item
+  RSA/DSA key: Full path to your \emph{private} key
+\item
+  Session type: XFCE
+\end{itemize}
+
+ Example. Connection parameters for X2Go.
+
+\paragraph{Known limitations}\label{known-limitations}
+
+\begin{itemize}
+\tightlist
+\item
+  On some versions of Windows, X2Go does not suppors switching between
+  full screen and windowed mode during a single session, or does not
+  support full screen mode at all.
+\item
+  If the path to the RSA/DSA private key is wrong, the software will
+  close with no error message.
+\end{itemize}
+
+\subsection{Accessing the Data}\label{accessing-the-data}
+
+In most cases, the data is stored in PosgreSQL database engine in a
+database named \emph{research}. A ready-made ordinary user
+\emph{analyst} (with the same default password) can access this database
+from the virtual machine's terminal with the command
+
+\begin{lstlisting}
+PGPASSWORD=analyst psql -U analyst -d research -h localhost
+\end{lstlisting}
+
+The data resides in the \emph{data} schema. The tables in this schema
+can be listed with \emph{\dt data.}. For example,
+
+\begin{lstlisting}
+research=> \dt data.
+                    List of relations
+ Schema |              Name              | Type  | Owner 
+--------+--------------------------------+-------+-------
+ data   | asiakas                        | table | ktp
+ data   | diagnoosi                      | table | ktp
+ data   | laake_maarays                  | table | ktp
+ data   | labrat                         | table | ktp
+ data   | leikkaus_opera                 | table | ktp
+ data   | leikkaus_toti                  | table | ktp
+ data   | oberon_toimenpiteet            | table | ktp
+ data   | palvelu                        | table | ktp
+ data   | radut                          | table | ktp
+ data   | reseptit                       | table | ktp
+ data   | yhdistetty                     | table | ktp
+(11 rows)
+\end{lstlisting}
+
+\subsection{Uploading Own Data}\label{uploading-own-data}
+
+\paragraph{Option 1.}\label{option-1.}
+
+Use \emph{X2Go Shared folders} feature to copy data back and forth
+between the computing environment.
+
+\paragraph{Option 2.}\label{option-2.}
+
+Use command line \emph{scp} (With Linux, OS X, and Microsoft's Windows
+10 Subsystem for Linux)
+
+Examples:
+
+\begin{lstlisting}
+# Open a tunnel to the remote machine at local port 2222.
+ssh -N -L 2222:192.168.122.100:22 bastion@analytics.tyks.fi -i <private_key_file> &
+
+# Copy the file(s) to DAP Desktop folder
+scp -P 2222 <my_files> <username>@localhost:~/Desktop/
+\end{lstlisting}
+
+\paragraph{Option 3.}\label{option-3.}
+
+Use dedicated secure copy software like WinSCP on Windows which can
+tunnel connections through the bastion host.
+
+\subparagraph{Installing WinCSP (for
+Windows)}\label{installing-wincsp-for-windows}
+
+Download a recent copy of WinSCP from
+\url{https://winscp.net/eng/download.php} and run the installation
+package. (In case you do not have administrator rights, choose portable
+executables. They are just launched directly and not installed.)
+
+ Configure site. Set host name to your DAP IP
+(192.168.122.\textless{}number\textgreater{}) and user name and password
+to your personal credentials. Then click the ``Advanced\ldots{}''
+button.
+
+ Set up tunnel. Select Connection -\textgreater{} Tunnel,and {[}x{]}
+Connect through SSH tunnel. Host name must be \textbf{analytics.tyks.fi}
+and user \textbf{bastion}. Finally choose your private key file. When
+given an OpenSSH privater key, WinSCP offers to convert it into
+(Windows-specific) Putty format.
+
+ Key conversion.OpenSSH private key can be converted into Putty format
+and saved.
+
+ File copying. Files can be copied with drag and drop.
+
+\end{document}
+
+[makePDF] Run #1
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(/tmp/tex2pdf.2213/input.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo))
+(/usr/share/texmf/tex/latex/lm/lmodern.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fixltx2e.sty
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+) (/usr/share/texlive/texmf-dist/tex/xelatex/mathspec/mathspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/tuenc.def))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex)))))
+(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-xetex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty))
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def)
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/palatino.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel-finnish/finnish.ldf
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+(/usr/share/texlive/texmf-dist/tex/generic/babel/xebabel.def)))
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf))
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty)
+No file input.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ppl.cfg)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def)
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg)
+(/usr/share/texmf/tex/latex/lm/omllmm.fd)
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd)
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
+Overfull \hbox (21.17212pt too wide) in paragraph at lines 174--177
+[]\T1/ppl/m/n/10.95 [1] []$http : / / www . howtogeek . com / 249966 / how-[]to
+-[]install-[]and-[]use-[]the-[]linux-[]bash-[]shell-[]on-[]windows-[]10/$[]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 200.
+
+[1] (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ppl.fd)
+! Undefined control sequence.
+<recently read> \dt 
+                    
+l.269 can be listed with \emph{\dt data.}
+                                         . For example,
+Output written on /tmp/tex2pdf.2213/input.pdf (1 page).
+Transcript written on /tmp/tex2pdf.2213/input.log.
+
+[makePDF] Run #2
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(/tmp/tex2pdf.2213/input.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo))
+(/usr/share/texmf/tex/latex/lm/lmodern.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fixltx2e.sty
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+) (/usr/share/texlive/texmf-dist/tex/xelatex/mathspec/mathspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/tuenc.def))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex)))))
+(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-xetex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty))
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def)
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/palatino.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel-finnish/finnish.ldf
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+(/usr/share/texlive/texmf-dist/tex/generic/babel/xebabel.def)))
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf))
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty)
+(/tmp/tex2pdf.2213/input.aux)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ppl.cfg)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(/tmp/tex2pdf.2213/input.out) (/tmp/tex2pdf.2213/input.out)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def)
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg)
+(/usr/share/texmf/tex/latex/lm/omllmm.fd)
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd)
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
+Overfull \hbox (21.17212pt too wide) in paragraph at lines 174--177
+[]\T1/ppl/m/n/10.95 [1] []$http : / / www . howtogeek . com / 249966 / how-[]to
+-[]install-[]and-[]use-[]the-[]linux-[]bash-[]shell-[]on-[]windows-[]10/$[]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 200.
+
+[1] (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ppl.fd)
+! Undefined control sequence.
+<recently read> \dt 
+                    
+l.269 can be listed with \emph{\dt data.}
+                                         . For example,
+Output written on /tmp/tex2pdf.2213/input.pdf (1 page).
+Transcript written on /tmp/tex2pdf.2213/input.log.
+
+[makePDF] Run #3
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex)
+ restricted \write18 enabled.
+entering extended mode
+(/tmp/tex2pdf.2213/input.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo))
+(/usr/share/texmf/tex/latex/lm/lmodern.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fixltx2e.sty
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+)! Undefined control sequence.
+<recently read> \dt 
+                    
+l.269 can be listed with \emph{\dt data.}
+
+pandoc: Error producing PDF
+ (/usr/share/texlive/texmf-dist/tex/xelatex/mathspec/mathspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/tuenc.def))
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex)))))
+(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-xetex.def)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty))
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/stringenc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def)
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/palatino.sty)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel-finnish/finnish.ldf
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+(/usr/share/texlive/texmf-dist/tex/generic/babel/xebabel.def)))
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf))
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/mathrsfs.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty)
+(/tmp/tex2pdf.2213/input.aux)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ppl.cfg)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(/tmp/tex2pdf.2213/input.out) (/tmp/tex2pdf.2213/input.out)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/se-ascii-print.def)
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg)
+(/usr/share/texmf/tex/latex/lm/omllmm.fd)
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd)
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
+Overfull \hbox (21.17212pt too wide) in paragraph at lines 174--177
+[]\T1/ppl/m/n/10.95 [1] []$http : / / www . howtogeek . com / 249966 / how-[]to
+-[]install-[]and-[]use-[]the-[]linux-[]bash-[]shell-[]on-[]windows-[]10/$[]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 200.
+
+[1] (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ppl.fd)
+! Undefined control sequence.
+<recently read> \dt 
+                    
+l.269 can be listed with \emph{\dt data.}
+                                         . For example,
+Output written on /tmp/tex2pdf.2213/input.pdf (1 page).
+Transcript written on /tmp/tex2pdf.2213/input.log.
+
