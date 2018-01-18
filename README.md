@@ -39,5 +39,5 @@ The documentation is divided into several main topics
 12. External Research Environment
 13. Software Summary
 
-Open <http://ktpdoc.vsshp.net/book/ktp_book.pdf> for a printable copy.
-
+Open <https://github.com/Sitra-Isaacus/VSSHP-tietoallas-dap/blob/master/book/cci_book.pdf>
+for a printable copy.
