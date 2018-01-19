@@ -24,10 +24,11 @@ Feel free to cite this work as:
 > Arho Virkki. Sponsors: Päivi Rautava, Tarja Laitinen and The Finnish
 > Innovation Fund Sitra. *Turku University Hospital, Turku, Finland.*
 > Available at:
-> <http://https://github.com/Sitra-Isaacus/VSSHP-tietoallas-dap> under
+> <https://github.com/Sitra-Isaacus/VSSHP-tietoallas-dap> under
 > the Creatice Commons Attribution-ShareAlike 4.0 International
 > License. 
 
+----
 
 ### Welcome to KTP Wiki!
 
