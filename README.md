@@ -17,6 +17,16 @@ pdf](https://github.com/Sitra-Isaacus/VSSHP-tietoallas-dap/raw/master/book/cci_b
 generated with [pandoc](http://pandoc.org/) by running *getbook.sh* at
 the Git document root. The compilation script is included as an example.
 
+Feel free to cite this work as:
+
+> *The Clinical Data Refinery: Management and Administration of the
+> Analytics Environment.* Editors: Anna Hammais, Juha Varjonen and
+> Arho Virkki. Sponsors: Päivi Rautava, Tarja Laitinen and The Finnish
+> Innovation Fund Sitra. *Turku University Hospital, Turku, Finland.*
+> Available at:
+> <http://https://github.com/Sitra-Isaacus/VSSHP-tietoallas-dap> under
+> the Creatice Commons Attribution-ShareAlike 4.0 International
+> License. 
 
 
 ### Welcome to KTP Wiki!
